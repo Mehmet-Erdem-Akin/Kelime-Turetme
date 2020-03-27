@@ -1,4 +1,4 @@
-# Kelime-Turetme
+# Kelime-Turetme-Oyunu
 
 **Kelime Türetme oyunu daha çok ortaokul ingilizce derslerinde kelimelerin pekiştirilmesi amacı ile oynanan bir oyundur. Kullanıcı bir kelime girer, örneğin Apple yazdı. Yeni girilecek kelime Apple kelimesinin son harfi ile başlamalıdır. 
   
